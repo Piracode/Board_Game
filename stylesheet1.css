@@ -1,0 +1,11 @@
+#canvas{
+
+border : 3px solid black;
+background-size: 100%;
+margin-left: 30%;
+margin-top: 5%;
+}
+
+#player1, #player2{
+	display: none;
+}
